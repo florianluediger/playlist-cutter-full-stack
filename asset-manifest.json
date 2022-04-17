@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spotify-smart-playlists/static/css/main.4b577297.css",
-    "main.js": "/spotify-smart-playlists/static/js/main.a06bcf5e.js",
+    "main.js": "/spotify-smart-playlists/static/js/main.ad2875a1.js",
     "static/js/787.300ecc25.chunk.js": "/spotify-smart-playlists/static/js/787.300ecc25.chunk.js",
     "index.html": "/spotify-smart-playlists/index.html",
     "main.4b577297.css.map": "/spotify-smart-playlists/static/css/main.4b577297.css.map",
-    "main.a06bcf5e.js.map": "/spotify-smart-playlists/static/js/main.a06bcf5e.js.map",
+    "main.ad2875a1.js.map": "/spotify-smart-playlists/static/js/main.ad2875a1.js.map",
     "787.300ecc25.chunk.js.map": "/spotify-smart-playlists/static/js/787.300ecc25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b577297.css",
-    "static/js/main.a06bcf5e.js"
+    "static/js/main.ad2875a1.js"
   ]
 }
