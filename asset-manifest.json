@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/spotify-smart-playlists/static/css/main.fdd52705.css",
-    "main.js": "/spotify-smart-playlists/static/js/main.5785d226.js",
+    "main.css": "/spotify-smart-playlists/static/css/main.edf376ec.css",
+    "main.js": "/spotify-smart-playlists/static/js/main.29751f50.js",
     "static/js/787.300ecc25.chunk.js": "/spotify-smart-playlists/static/js/787.300ecc25.chunk.js",
+    "static/media/knife.svg": "/spotify-smart-playlists/static/media/knife.148392182e5dc2872ea06507e2b7370b.svg",
     "index.html": "/spotify-smart-playlists/index.html",
-    "main.fdd52705.css.map": "/spotify-smart-playlists/static/css/main.fdd52705.css.map",
-    "main.5785d226.js.map": "/spotify-smart-playlists/static/js/main.5785d226.js.map",
+    "main.edf376ec.css.map": "/spotify-smart-playlists/static/css/main.edf376ec.css.map",
+    "main.29751f50.js.map": "/spotify-smart-playlists/static/js/main.29751f50.js.map",
     "787.300ecc25.chunk.js.map": "/spotify-smart-playlists/static/js/787.300ecc25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdd52705.css",
-    "static/js/main.5785d226.js"
+    "static/css/main.edf376ec.css",
+    "static/js/main.29751f50.js"
   ]
 }
